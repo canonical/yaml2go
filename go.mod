@@ -1,4 +1,4 @@
-module github.com/HomayoonAlimohammadi/yaml2go
+module github.com/canonical/yaml2go
 
 go 1.22.6
 
